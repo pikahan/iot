@@ -1,0 +1,12 @@
+.panel-wrapper {
+    margin-bottom: 20px;
+}
+
+.panel-title {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.panel-title + * {
+    margin-left: 20px;
+}
